@@ -22,5 +22,8 @@ I enjoy building small projects to improve my skills and learning by doing.
 
 ### Projects
 
-🚧 Projects coming soon as I start publishing my work 🚧
+- 🚧 Work in progress 🚧  
+[MNIST Neural Network from Scratch](https://github.com/nick-ob/mnist-numpy-nn): A neural network from scratch using only NumPy  
+
+🚧 More Projects coming soon as I start publishing my work 🚧
 
