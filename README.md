@@ -22,7 +22,9 @@ I enjoy building small projects to improve my skills and learning by doing.
 
 ### Projects
 
-- [MNIST Neural Network from Scratch](https://github.com/nick-ob/mnist-numpy-nn): A neural network from scratch using only NumPy  
+- [MNIST Neural Network from Scratch](https://github.com/nick-ob/mnist-numpy-nn)
+: A neural network from scratch using only NumPy
+- [Hyperparameter Playground](https://github.com/nick-ob/hyperplay)
+: Play with hyperparameters. See how it affects the networks training
 
-🚧 More Projects coming soon as I start publishing my work 🚧
-
+🚧 More Projects coming soon 🚧
