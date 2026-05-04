@@ -26,5 +26,7 @@ I enjoy building small projects to improve my skills and learning by doing.
 : A neural network from scratch using only NumPy
 - [Hyperparameter Playground](https://github.com/nick-ob/hyperplay)
 : Play with hyperparameters. See how it affects the networks training
+- [NextWord](https://github.com/nick-ob/nextword)
+: A from scratch neural network to predict the upcoming word in a text
 
 🚧 More Projects coming soon 🚧
